@@ -4,7 +4,7 @@
 
 ![Zaara Labs](/Image%20Assets/Zaara%20Labs.png)
 
-═══════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════════════
 
 <h2 style="color:#3CE1CD;">⚡︎ About Us</h2>
 
@@ -64,7 +64,7 @@ We are a diverse group of data scientists, AI researchers, engineers, and busine
 <p align="center">
     <i><b style="color: #3CE1CD;">© Zaara Labs™ - Pioneering The Data Driven Future With AI ♡</b></i> <br>
     <i><b style="color: white;">Based In Sri Lanka 🇱🇰</b></i> <br>
-    <b style="color: white;">★ ★ ★ ★ ★</b>
+    <i><b style="color: white;">★ ★ ★ ★ ★</b></i>
 </p>
 
 ---
