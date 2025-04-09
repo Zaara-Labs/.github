@@ -35,12 +35,6 @@ Zaara Labs™ is a tech startup specializing in Data Science & Artificial Intell
 
 Here you'll find our open-source projects, tools, and contributions to the AI and data science community.
 
-## Our Team
-
-We are a diverse group of data scientists, AI researchers, engineers, and business strategists united by our passion for technology and innovation.
-
-[Meet the Team](https://zaaralabs.com/team)
-
 ## Connect With Us
 
 - [Website](https://zaaralabs.com) 
@@ -52,8 +46,23 @@ We are a diverse group of data scientists, AI researchers, engineers, and busine
 
 Interested in collaborating? Have a project in mind? [Contact us](https://zaaralabs.com/contact) to discuss how Zaara Labs can help bring your AI vision to life.
 
+## Our Team
+
+We are a diverse group of data scientists, AI researchers, engineers, and business strategists united by our passion for technology and innovation. [Meet the Team](https://zaaralabs.com/team)
+
+| Avatar | Username | Role |
+|--------|----------| ---- |
+| ![@AVDiv's Avatar](https://github.com/AVDiv.png?size=50) | [**@AVDiv**](https://github.com/AVDiv) | Data DEV
+| ![@Pathfinder1152's Avatar](https://github.com/Pathfinder1152.png?size=50) | [**@Pathfinder1152**](https://github.com/Pathfinder1152) | Data DEV
+| ![@kasrsu's Avatar](https://github.com/kasrsu.png?size=50) | [**@kasrsu**](https://github.com/kasrsu) | Data DEV
+| ![@GDJinasena's Avatar](https://github.com/GDJinasena.png?size=50) | [**@GDJinasena**](https://github.com/GDJinasena) | Data DEV
+| ![@scssandanayake's Avatar](https://github.com/scssandanayake.png?size=50) | [**@scssandanayake**](https://github.com/scssandanayake) | Data DEV
+
 ---
 
-**© Zaara Labs™ - Pioneering The Data Driven Future With AI**
+<p align="center">
+    <i>© Zaara Labs™ - Pioneering The Data Driven Future With AI
+    </i>
+</p>
 
 ---
