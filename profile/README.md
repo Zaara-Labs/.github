@@ -1,7 +1,7 @@
 # Zaara Labs
 **Transforming Data into Intelligence**
 
-![Zaara Labs](Image%20Assets/Zaara%20Labs.png)
+![Zaara Labs](/Image%20Assets/Zaara%20Labs.png)
 
 [![Website](https://img.shields.io/badge/Website-zaaralabs.com-blue)](https://zaaralabs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaara%20Labs-blue)](https://linkedin.com/company/zaaralabs)
