@@ -1,52 +1,53 @@
-# Zaara Labs
-**Transforming Data into Intelligence**
+<h1 style="color:#3CE1CD;">Zaara Labs™</h1>
+
+**Transforming Data into Intelligence ✈︎**
 
 ![Zaara Labs](/Image%20Assets/Zaara%20Labs.png)
 
-[![Website](https://img.shields.io/badge/Website-zaaralabs.com-blue)](https://zaaralabs.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaara%20Labs-blue)](https://linkedin.com/company/zaaralabs)
-[![Twitter](https://img.shields.io/badge/Twitter-@zaaralabs-blue)](https://twitter.com/zaaralabs)
+══════════════════════════════════════════════════════════════════════════════════════
 
-## About Us
+<h2 style="color:#3CE1CD;">⚡︎ About Us</h2>
 
 Zaara Labs™ is a tech startup specializing in Data Science & Artificial Intelligence. Our mission is to develop cutting-edge AI-driven products and solutions that solve real-world problems and drive business innovation. We combine technical expertise with creative thinking to deliver intelligent systems that transform how organizations operate.
 
-## Why Choose Us
+<h2 style="color:#3CE1CD;">⚡︎ Why Choose Us</h2>
 
 - **Innovation First** - We stay at the forefront of AI research and implementation
 - **Custom Solutions** - Tailored approaches to your specific business challenges
 - **Scalable Technology** - Our solutions grow with your business needs
 - **Ethical AI** - Committed to responsible and transparent artificial intelligence
 
-## Our Focus Areas
+<h2 style="color:#3CE1CD;">⚡︎ Our Focus Areas</h2>
 
 - **Artificial Intelligence** - Developing intelligent algorithms and models
 - **Data Science** - Extracting insights and value from complex datasets
 - **Machine Learning** - Creating adaptive and self-improving systems
 - **Deep Learning** - Building neural networks for complex problem-solving
 
-## Latest Projects
+<h2 style="color:#3CE1CD;">⚡︎ Latest Projects</h2>
 
 - **ZaaraVision** - Computer vision platform for retail analytics
 - **DataSense** - Predictive maintenance solution for manufacturing
 - **Pneumetra** - Air quality predictor
 
-## Our Repositories
+<h2 style="color:#3CE1CD;">⚡︎ Our Repositories</h2>
 
 Here you'll find our open-source projects, tools, and contributions to the AI and data science community.
 
-## Connect With Us
+<h2 style="color:#3CE1CD;">⚡︎ Connect With Us</h2>
 
-- [Website](https://zaaralabs.com) 
-- [LinkedIn](https://linkedin.com/company/zaaralabs)
-- [Twitter](https://twitter.com/zaaralabs)
-- Email Us : info@zaaralabs.com
+[![Website](https://img.shields.io/badge/Website-zaaralabs.com-jade)](https://zaaralabs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaara%20Labs-blue)](https://linkedin.com/company/zaaralabs)
+[![Twitter](https://img.shields.io/badge/Twitter-@zaaralabs-darkblue)](https://twitter.com/zaaralabs)
+[![Email](https://img.shields.io/badge/Email-@zaaralabs-red)](https://info@zaaralabs.com)
 
-## Work With Us
+
+<h2 style="color:#3CE1CD;">⚡︎ Work With Us</h2>
 
 Interested in collaborating? Have a project in mind? [Contact us](https://zaaralabs.com/contact) to discuss how Zaara Labs can help bring your AI vision to life.
 
-## Our Team
+<h2 style="color:#3CE1CD;">⚡︎ Our Team</h2>
+
 
 We are a diverse group of data scientists, AI researchers, engineers, and business strategists united by our passion for technology and innovation. [Meet the Team](https://zaaralabs.com/team)
 
@@ -61,8 +62,9 @@ We are a diverse group of data scientists, AI researchers, engineers, and busine
 ---
 
 <p align="center">
-    <i>© Zaara Labs™ - Pioneering The Data Driven Future With AI
-    </i>
+    <i><b style="color: #3CE1CD;">© Zaara Labs™ - Pioneering The Data Driven Future With AI ♡</b></i> <br>
+    <i><b style="color: white;">Based In Sri Lanka 🇱🇰</b></i> <br>
+    <b style="color: white;">★ ★ ★ ★ ★</b>
 </p>
 
 ---
