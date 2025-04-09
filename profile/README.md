@@ -1,6 +1,6 @@
 <h1 style="color:#3CE1CD;">Zaara Labs™</h1>
 
-**Transforming Data into Intelligence ✈︎**
+**Transforming Raw Data into Real Intelligence ✈︎**
 
 ![Zaara Labs](/Image%20Assets/Zaara%20Labs.png)
 
@@ -62,8 +62,8 @@ We are a diverse group of data scientists, AI researchers, engineers, and busine
 ---
 
 <p align="center">
-    <i><b style="color: #3CE1CD;">© Zaara Labs™ - Pioneering The Data Driven Future With AI ♡</b></i> <br>
-    <i><b style="color: white;">Based In Sri Lanka 🇱🇰</b></i> <br>
+    <b style="color: #3CE1CD;">© Zaara Labs™ - Pioneering The Data Driven Future With AI 💕</b> <br>
+    <b style="color: white;">Based In Sri Lanka 🇱🇰</b> <br>
     <b style="color: white;">★ ★ ★ ★ ★</b>
 </p>
 
