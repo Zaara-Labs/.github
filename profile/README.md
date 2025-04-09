@@ -53,18 +53,18 @@ We are a diverse group of data scientists, AI researchers, engineers, and busine
 
 | Avatar | Username | Role |
 |--------|----------| ---- |
-| ![@AVDiv's Avatar](https://github.com/AVDiv.png?size=50) | [**@AVDiv**](https://github.com/AVDiv) | Data DEV
-| ![@Pathfinder1152's Avatar](https://github.com/Pathfinder1152.png?size=50) | [**@Pathfinder1152**](https://github.com/Pathfinder1152) | Data DEV
-| ![@kasrsu's Avatar](https://github.com/kasrsu.png?size=50) | [**@kasrsu**](https://github.com/kasrsu) | Data DEV
-| ![@GDJinasena's Avatar](https://github.com/GDJinasena.png?size=50) | [**@GDJinasena**](https://github.com/GDJinasena) | Data DEV
-| ![@scssandanayake's Avatar](https://github.com/scssandanayake.png?size=50) | [**@scssandanayake**](https://github.com/scssandanayake) | Data DEV
+| ![@AVDiv's Avatar](https://github.com/AVDiv.png?size=40) | [**@AVDiv**](https://github.com/AVDiv) | Data DEV
+| ![@Pathfinder1152's Avatar](https://github.com/Pathfinder1152.png?size=40) | [**@Pathfinder1152**](https://github.com/Pathfinder1152) | Data DEV
+| ![@kasrsu's Avatar](https://github.com/kasrsu.png?size=40) | [**@kasrsu**](https://github.com/kasrsu) | Data DEV
+| ![@GDJinasena's Avatar](https://github.com/GDJinasena.png?size=40) | [**@GDJinasena**](https://github.com/GDJinasena) | Data DEV
+| ![@scssandanayake's Avatar](https://github.com/scssandanayake.png?size=40) | [**@scssandanayake**](https://github.com/scssandanayake) | Data DEV
 
 ---
 
 <p align="center">
     <i><b style="color: #3CE1CD;">© Zaara Labs™ - Pioneering The Data Driven Future With AI ♡</b></i> <br>
     <i><b style="color: white;">Based In Sri Lanka 🇱🇰</b></i> <br>
-    <i><b style="color: white;">★ ★ ★ ★ ★</b></i>
+    <b style="color: white;">★ ★ ★ ★ ★</b>
 </p>
 
 ---
